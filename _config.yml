@@ -1,0 +1,28 @@
+name: discoverhopetest
+favicon: null
+layout_spectrum: 0.5520478601101786
+typography_spectrum: 0.8091234948951751
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.06752228201366961
+  lightness: 0.02115167141892016
+  saturation: 0.4686998769175261
+  rhythmicContrast: 0.3593580177985132
+purpose: []
